@@ -5,10 +5,10 @@
 # UV is python package manager like npm in typscript
 # tools like dependecies
 
-# initialize with todo cli
+# initialize with generate password
 #means create a folder through UV
 #example
-'''uv init todo-cli''' # folder created with some files
+'''uv init generate-password''' # folder created with some files
 
 #add streamlit 
 '''uv add streamlit'''
